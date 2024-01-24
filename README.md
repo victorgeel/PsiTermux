@@ -18,15 +18,15 @@ Another Method for Termux with Psiphon pro
 >
 >$ pkg install git
 >
->$ gir clone
->
+>$ gir clone https://github.com/victorgeel/PsiTermux.git
+
 
 # Run
 
 >$ cd freenet
 >
->$ chmod +x Main.py
+>$ chmod +x *
 >
 >$ python2 Main.py
 
-Enjoy 
+💗Enjoy💗 
