@@ -18,7 +18,7 @@ Another Method for Termux with Psiphon pro
 >
 >$ pkg install git
 >
->$ gir clone https://github.com/victorgeel/PsiTermux.git
+>$ git clone https://github.com/victorgeel/PsiTermux.git
 
 
 # Run
@@ -27,6 +27,6 @@ Another Method for Termux with Psiphon pro
 >
 >$ chmod +x *
 >
->$ python2 Main.py
+>$ python2 main.py
 
 💗Enjoy💗 
