@@ -23,7 +23,7 @@ Another Method for Termux with Psiphon pro
 
 # Run
 
->$ cd freenet
+>$ cd PsiTermux
 >
 >$ chmod +x *
 >
